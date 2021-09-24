@@ -4,3 +4,5 @@ this repo contains python codes that could maximally read monthly transaction fi
 - Discovery
 - citi
 - Chase
+
+and organize them into one single file for monthly expense tracking
