@@ -1,2 +1,6 @@
 # TrackSpending
-this repo contains python codes I wrote for tracking different credit card's monthly transactions
+this repo contains python codes that could maximally read monthly transaction files from 
+- Bank of America
+- Discovery
+- citi
+- Chase
